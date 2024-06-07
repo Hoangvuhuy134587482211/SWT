@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Pro192">
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/src/java/controller/LogoutServlet.java</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/web/mycart.jsp</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/web/signup.jsp</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/web/manageaccount.jsp</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/src/java/model/Account.java</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/web/Shop.jsp</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/src/java/model/Product.java</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/web/manageproduct.jsp</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/src/java/dal/AccountDAO.java</file>
+            <file>file:/D:/Ky4-Spring2024/PRJ301/Asm/web/home.jsp</file>
+        </group>
+        <group>
+            <file>file:/H:/Asm/src/java/controller/ManageProduct.java</file>
+            <file>file:/H:/Asm/src/java/controller/Checkout.java</file>
+        </group>
+    </open-files>
+</project-private>
